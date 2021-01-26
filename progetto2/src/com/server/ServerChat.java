@@ -32,7 +32,7 @@ public class ServerChat {
 				// flusso in ingresso da tastiera
 				input = new InputStreamReader(System.in);
 				tastiera = new BufferedReader(input);
-				System.out.println("Chat inizzializzata.");
+				System.out.println("Chat inizzializzata con successo.");
 				while(true)
 				{
 					// stampa il messaggio ricevuto
