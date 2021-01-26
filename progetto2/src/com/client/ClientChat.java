@@ -35,7 +35,7 @@ public class ClientChat {
 			// flusso in ingresso da tastiera
 			input = new InputStreamReader(System.in);
 			tastiera = new BufferedReader(input);
-			System.out.println("Chat inizzializzata.");
+			System.out.println("Chat inizzializzata con successo.");
 			while (true)
 			{
 				// legge il messaggio da tastiera
